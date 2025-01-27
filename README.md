@@ -1,0 +1,1 @@
+# Analisis_sentimiento_McDonalds
